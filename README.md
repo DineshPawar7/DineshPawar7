@@ -76,12 +76,20 @@
 ---
 
 
-### Top Repositories
-
+### 🚀 Top Repositories
 
 <a href="https://github.com/DineshPawar7/dineshpawar-portfolio">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=dineshpawar-portfolio&theme=algolia" />
 </a>
+
+<a href="https://github.com/DineshPawar7/architectureMart">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=architectureMart&theme=algolia" />
+</a>
+
+<a href="https://github.com/DineshPawar7/Text-to-Speech-App">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=Text-to-Speech-App&theme=algolia" />
+</a>
+
 <a href="https://github.com/DineshPawar7/Blog-site-with-CMS">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=Blog-site-with-CMS&theme=algolia" />
 </a>
