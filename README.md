@@ -83,6 +83,10 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DineshPawar7&theme=algolia&hide_border=true" width="48%" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshPawar7&layout=compact&theme=algolia&hide_border=true" width="48%" />
+</p>
+
 ---
 
 ## 🚀 Top Repositories:
