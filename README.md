@@ -10,7 +10,7 @@
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 **2025 Goals:** Learn DevOps.
+- 🥅 **2025 Goals:** Learn AI/ML. 🤖
 - ⚡ **Fun fact:** `==` and `===` are not the same in JavaScript! 🤣
 
 ---
