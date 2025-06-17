@@ -86,25 +86,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshPawar7&layout=compact&theme=algolia&hide_border=true" width="48%" />
 </p>
-
----
-
-## 🚀 Top Repositories:
-
-<p align="center">
-  <a href="https://github.com/DineshPawar7/DineshPawar-Portfolio07">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=DineshPawar-Portfolio07&theme=algolia" width="45%" />
-  </a>
-  <a href="https://github.com/DineshPawar7/nxtkisan-client">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=nxtkisan-client&theme=algolia" width="45%" />
-  </a>
-  <a href="https://github.com/DineshPawar7/Text-to-Speech-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=Text-to-Speech-App&theme=algolia" width="45%" />
-  </a>
-   <a href="https://github.com/DineshPawar7/architectureMart">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=architectureMart&theme=algolia" width="45%" />
-  </a>
-  <a href="https://github.com/DineshPawar7/Blog-site-with-CMS">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DineshPawar7&repo=Blog-site-with-CMS&theme=algolia" width="45%" />
-  </a>
-</p>
