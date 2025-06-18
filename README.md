@@ -86,3 +86,7 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DineshPawar7&layout=compact&theme=algolia&hide_border=true" width="48%" />
 </p>
+
+
+
+[![Dinesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DineshPawar7&theme=react-dark)](https://github.com/DineshPawar7/github-readme-activity-graph)
